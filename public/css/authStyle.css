@@ -1,0 +1,38 @@
+#login-container{
+    width: 500px;
+    border-style: solid;
+    padding: 50px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#register-container{
+    width: 500px;
+    border-style: solid;
+    padding: 50px;
+    border-radius: 50px;
+    margin-top: 50px;
+    
+}
+#register-title{
+    margin-bottom: 60px;
+    margin-left: 150px;
+}
+#register-btn{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 200px;
+}
+#p-link{
+    margin-top: 80px;
+}
+#login-title
+{
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+#btn-login{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 200px;
+}
